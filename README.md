@@ -1,3 +1,4 @@
+Translated (poorly?) from https://github.com/madsys-dev/deepseekv2-profile/blob/924174cb5dc11fad24bdaad3fd820ebf87506368/workspace/blog/optimizing-mla.md
 
 # DeepSeek-V2 High-performance Inference Optimization Notes: MLA Optimization
 
